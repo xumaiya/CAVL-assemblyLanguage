@@ -39,8 +39,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/larycodes/CAVL.git
-   cd CAVL
+   git clone https://github.com/xumaiya/CAVL-assemblyLanguage.git
+   cd CAVL-assemblyLanguage
    ```
 
 2. **Backend Setup**
@@ -405,8 +405,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Repository:** [github.com/larycodes/CAVL](https://github.com/larycodes/CAVL)
-- **Issues:** [email](mailto:larycodes@gmail.com)
+- **Project Repository:** [github.com/larycodes/CAVL](https://github.com/xumaiya/CAVL-assemblyLanguage)
+- **Issues:** [email](mailto:sumaiyaxsaleem@gmail.com)
 - **Documentation:** [docs/](docs/)
 
 ---
